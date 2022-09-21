@@ -1,0 +1,8 @@
+[package]
+name = "kamel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+kamel-bevy = { path = "../kamel-bevy" }
+kamel-render = { path = "../kamel-render" }

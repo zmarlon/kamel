@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "crates/kamel",
+    "crates/kamel-bevy",
+    "crates/kamel-game",
+    "crates/kamel-render"
+]

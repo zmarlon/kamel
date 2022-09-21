@@ -1,0 +1,17 @@
+[package]
+name = "kamel-bevy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy_app = { git = "https://github.com/projectkml/bevy" }
+bevy_asset = { git = "https://github.com/projectkml/bevy" }
+bevy_core = { git = "https://github.com/projectkml/bevy" }
+bevy_ecs = { git = "https://github.com/projectkml/bevy" }
+bevy_input = { git = "https://github.com/projectkml/bevy" }
+bevy_log = { git = "https://github.com/projectkml/bevy" }
+bevy_reflect = { git = "https://github.com/projectkml/bevy" }
+bevy_time = { git = "https://github.com/projectkml/bevy" }
+bevy_utils = { git = "https://github.com/projectkml/bevy" }
+bevy_window = { git = "https://github.com/projectkml/bevy" }
+bevy_winit = { git = "https://github.com/projectkml/bevy" }
