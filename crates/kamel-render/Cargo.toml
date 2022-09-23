@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0.65"
+ash = { git = "https://github.com/projectkml/ash" }
+ash-window = { git = "https://github.com/projectkml/ash" }
+kamel-bevy = { path = "../kamel-bevy" }
+libc = "0.2.133"
+log = "0.4.17"
+raw-window-handle = "0.4.3"
+vk-mem-alloc = { git = "https://github.com/projectkml/vk-mem-alloc-rs" }

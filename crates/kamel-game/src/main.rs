@@ -14,3 +14,12 @@ fn main() {
         .add_plugins(DefaultPlugins)
         .run();
 }
+
+/*
+struct Enabled {
+    task_shader: bool,
+    mesh_shader: bool,
+    raytracing: bool,
+    debug_utils: bool
+}
+ */
